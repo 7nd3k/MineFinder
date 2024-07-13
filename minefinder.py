@@ -12,7 +12,7 @@ print_lock = threading.Lock()
 
 os.system("cls")
 time.sleep(1)
-os.system(f'title MineFinder V1 / By Fotograf.')
+os.system(f'title MineFinder V1 / By 7nd3k.')
 print(f'''{Fore.RED}
   ███▄ ▄███▓  ██▓ ███▄    █  ▓█████   █████  ██▓ ███▄    █ ▓█████▄  ▓█████ ██▀███  
  ▓██▒▀█▀ ██▒▒▓██▒ ██ ▀█   █  ▓█   ▀ ▓██    ▒▓██▒ ██ ▀█   █ ▒██▀ ██▌ ▓█   ▀▓██ ▒ ██▒
